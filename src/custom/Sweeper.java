@@ -31,7 +31,7 @@ import java.net.InetAddress;
  * in which a private key with some coins associated with it is published. The goal is to import the private key,
  * claim the coins and then send them to a different address.
  */
-public class PrivateKeys {
+public class Sweeper {
     public static void main(String[] args) throws Exception {
         // TODO: Assumes production network not testnet. Make it selectable.
         NetworkParameters params = NetworkParameters.prodNet();
