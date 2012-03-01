@@ -1,3 +1,8 @@
+Fork of main bitcoinj. Wanted to integrate some items such as fees that seemed critical, and do some custom work. Feel free to 
+submit changes and improvements. I am hoping the project grows a little more here on github.
+
+
+----
 To get started, ensure you have the latest JDK installed, and download Maven from:
 
   http://maven.apache.org/
